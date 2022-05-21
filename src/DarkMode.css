@@ -1,0 +1,16 @@
+.cover{
+    /* background-color: #4f82e94d; */
+    color: whitee;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    
+  }
+  .wrapperBtn{
+      position: absolute;
+      top: 0%;
+      right: 0%;
+  }
